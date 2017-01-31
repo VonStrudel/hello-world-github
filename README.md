@@ -1,4 +1,4 @@
-# hello-world-github BIS
+# hello-world-github TER
 Mein furst  repositorieren !
 
 Aber nicht die letzte
